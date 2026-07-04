@@ -534,7 +534,7 @@ Calculative_Foundation_Maths/
 
 ### Related Projects
 
-[![Spread Locator](https://img.shields.io/badge/Project_Explaination-View_Video-blue?style=for-the-badge)]()
+[![Video](https://img.shields.io/badge/Project_Explaination-View_Video-blue?style=for-the-badge)](https://drive.google.com/file/d/10aOYHues0dtTrmSqII4ECA4dRO3TEbge/view?usp=sharing)
 
 ---
 
